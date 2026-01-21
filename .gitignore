@@ -1,0 +1,5 @@
+# 忽略plan
+plan/
+
+# 忽略 lock
+package-lock.json

@@ -1,0 +1,6 @@
+./logs/app.log
+./logs/web.log
+./all-logs.txt
+./texts/a.txt
+./texts/b.txt
+./texts/c.txt
